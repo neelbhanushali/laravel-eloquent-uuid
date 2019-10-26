@@ -1,0 +1,25 @@
+{
+  "name": "neelbhanushali/laravel-eloquent-uuid",
+  "description": "A trait that provides support for uuid for eloquent models.",
+  "keywords": [
+    "laravel",
+    "eloquent",
+    "uuid"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Neel Bhanushali",
+      "email": "neal.bhanushali@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "laravel/framework": ">=5.6 | 6.x"
+  },
+  "autoload": {
+    "psr-4": {
+      "NeelBhanushali\\Laravel\\EloquentUUID\\": "src/"
+    }
+  }
+}
