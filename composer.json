@@ -14,7 +14,8 @@
       "email": "neal.bhanushali@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {},
   "autoload": {
     "psr-4": {
