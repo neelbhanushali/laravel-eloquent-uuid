@@ -1,6 +1,6 @@
 <?php
 
-namespace NeelBhanushali\Laravel\EloquentUUID\Traits;
+namespace NeelBhanushali\LaravelUUID\Traits;
 
 use Illuminate\Support\Str;
 
