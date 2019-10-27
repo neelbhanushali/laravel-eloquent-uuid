@@ -1,6 +1,6 @@
 {
   "name": "neelbhanushali/laravel-eloquent-uuid",
-  "version": "1.0"
+  "version": "1.0",
   "description": "A trait that provides support for uuid for eloquent models.",
   "type": "library",
   "keywords": [
