@@ -1,5 +1,5 @@
 {
-  "name": "neelbhanushali/laravel-eloquent-uuid",
+  "name": "neelbhanushali/laravel-uuid",
   "version": "1.0",
   "description": "A trait that provides support for uuid for eloquent models.",
   "type": "library",
@@ -20,7 +20,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "NeelBhanushali\\Laravel\\EloquentUUID\\": "src/"
+      "NeelBhanushali\\LaravelUUID\\": "src/"
     }
   }
 }
