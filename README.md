@@ -1,4 +1,4 @@
-# Laravel Eloquent UUID
+# Laravel UUID
 A trait that provides support for uuid for eloquent models.
 
 `composer require neelbhanushali/laravel-uuid`
