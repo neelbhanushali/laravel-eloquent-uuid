@@ -6,7 +6,7 @@ use Illuminate\Support\Str;
 
 trait HasUUID
 {
-    public static function bootUUID()
+    public static function bootHasUUID()
     {
         static::creating(function ($model) {
             $uuid = (string) Str::uuid();
